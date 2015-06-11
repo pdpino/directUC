@@ -12,11 +12,15 @@
     },
   "description": "Accede rápidamente a diferentes servicios de la UC.",
   "permissions" : [
+    "tabs",
+    "notifications",
     "https://*.ing.puc.cl/",
     "https://*.uc.cl/*",
     "http://*.uc.cl/*",
     "http://*.puc.cl/*",
-    "notifications"
+    "https://ssl.google-analytics.com/ga.js",
+    "http://webaccess.uc.cl",
+    "https://portal.uc.cl"
   ],
   "browser_action": {
     "default_icon": "i/icon_128.png",
