@@ -1,9 +1,9 @@
 #directUC
-Extensión para Google Chrome que permite a alumnos de la Pontificia Universidad Católica de Chile el ingreso directo a diferentes servicios ofrecidos por esta.
+Extensión para Opera que permite a alumnos de la Pontificia Universidad Católica de Chile el ingreso directo a diferentes servicios ofrecidos por esta.
 
 ## Instalar
 
-La extensión está disponible en la Chrome Web Store, [haz click acá para instalar](http://bit.ly/directUC "Instalar directUC para Google Chrome").
+La extensión está disponible en los Complementos de Opera, [haz click acá para instalar](http://addons.opera.com/extensions/details/directuc/ "Instalar directUC para Opera").
 
 ## Características
 
