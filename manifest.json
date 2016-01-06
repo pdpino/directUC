@@ -39,5 +39,10 @@
       "css": ["css/estilo-cas-bar.css"]
     }
   ],
-  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
+  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+  "applications": {
+    "gecko": {
+      "id": "directuc@wachunei.com"
+    }
+  }
 }
