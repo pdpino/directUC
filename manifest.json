@@ -25,8 +25,7 @@
   },
   "omnibox": { "keyword" : "uc" },
   "background": {
-    "scripts": ["js/background.js"],
-    "persistent": true
+    "scripts": ["js/background.js"]
   },
   "options_ui": {
     "page": "options.html",
