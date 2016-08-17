@@ -21,7 +21,6 @@
     "https://ssl.google-analytics.com/ga.js",
     "http://webaccess.uc.cl/*",
     "https://portal.uc.cl/*"
-
   ],
   "browser_action": {
     "default_icon": "i/icon_128.png",

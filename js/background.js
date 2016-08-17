@@ -319,7 +319,11 @@ var directUC = (function() {
       req.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
       req.setRequestHeader("X-Requested-With", "XMLHttpRequest");
       if(service == self.services.labmat) {
+<<<<<<< HEAD
         req.timeout = 30000;
+=======
+        req.timeout = 3000;
+>>>>>>> 741e24bf91102c79aaeea9608630d73aa511b57d
       }
       req.onreadystatechange = function() {
         if (req.readyState == 4 && req.status >= 200) {
